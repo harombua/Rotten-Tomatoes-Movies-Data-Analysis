@@ -1,0 +1,99 @@
+title,audience_score,number_of_audience_ratings,movie_genre,movie_author,movie_director,ranking,critic_score,number_of_critic_ratings
+12 Angry Men (Twelve Angry Men) (1957),97,103672,"Classics,Drama",Sidney Lumet,Reginald Rose,53,100,49
+The 39 Steps (1935),86,23647,"Action & Adventure,Classics,Mystery & Suspense",Alfred Hitchcock,"Alma Reville, Charles Bennett, Ian Hay",76,98,44
+The Adventures of Robin Hood (1938),89,33584,"Action & Adventure,Classics,Romance",Michael Curtiz,"Norman Reilly Raine, Seton I. Miller",34,100,45
+All About Eve (1950),94,44564,"Classics,Comedy,Drama",Joseph L. Mankiewicz,Joseph L. Mankiewicz,7,100,64
+All Quiet on the Western Front (1930),89,17768,"Classics,Drama",Lewis Milestone,"Lewis Milestone, Maxwell Anderson, Del Andrews, George Abbott",56,100,40
+Casablanca (1942),95,355952,"Classics,Drama,Romance",Michael Curtiz,"Julius J. Epstein, Philip G. Epstein, Howard Koch",16,97,74
+Frankenstein (1931),87,41140,"Classics,Horror,Science Fiction & Fantasy,Special Interest",James Whale,"Francis Edward Faragoh, Garrett Fort, John L. Balderston, Francis Edwards Faragoh, Robert Florey, Garrett Elsden Fort",65,100,45
+King Kong (1933),86,89669,"Action & Adventure,Classics,Horror",Ernest B. Schoedsack,"James Ashmore Creelman, Ruth Rose, James Creelman",32,98,54
+Laura (1944),91,10481,"Classics,Mystery & Suspense",Otto Preminger,"Jay Dratler, Samuel Hoffenstein, Elizabeth Reinhardt, Ring Lardner Jr., Jerry Cady",19,100,60
+M (1931),95,35778,"Art House & International,Drama,Mystery & Suspense",Fritz Lang,"Fritz Lang, Thea von Harbou",45,100,51
+The Maltese Falcon (1941),91,57268,"Drama,Mystery & Suspense",John Huston,John Huston,27,100,50
+Metropolis (1927),92,62018,"Action & Adventure,Art House & International,Classics,Drama,Science Fiction & Fantasy",Fritz Lang,"Fritz Lang, Thea von Harbou",10,99,116
+Rear Window (1954),95,149458,"Classics,Drama,Mystery & Suspense",Alfred Hitchcock,John Michael Hayes,36,100,63
+Rebecca (1940),92,39026,"Classics,Drama,Mystery & Suspense",Alfred Hitchcock,"Joan Harrison, Michael Hogan, Philip MacDonald, Robert E. Sherwood",71,100,48
+A Streetcar Named Desire (1951),90,54761,"Classics,Drama",Elia Kazan,"Tennessee Williams, Oscar Saul",60,98,54
+Touch of Evil (1958),92,30867,"Classics,Drama,Mystery & Suspense",Orson Welles,Orson Welles,68,96,70
+High Noon (1952),89,25065,"Mystery & Suspense,Western",Fred Zinnemann,Carl Foreman,88,96,50
+Snow White and the Seven Dwarfs (1937),78,469510,"Animation,Classics,Kids & Family,Science Fiction & Fantasy",David Hand,"Dorothy Anne Blank, Dick Richards, Ted Sears, Dick Rickard, Earl Hurd, Webb Smith, Dick Richard, Dorothy Ann Blank, Merrill de Maris, Richard Creedon, Otto Englander",21,98,47
+12 Years a Slave (2013),90,138789,Drama,Steve McQueen (III),John Ridley,29,96,316
+The 400 Blows (Les Quatre cents coups) (1959),94,38368,"Art House & International,Classics,Drama",FranÃ§ois Truffaut,"FranÃ§ois Truffaut, Marcel Moussy",54,100,54
+Alien (1979),94,457186,"Drama,Mystery & Suspense,Science Fiction & Fantasy",Ridley Scott,Dan O'Bannon,48,97,104
+Apocalypse Now (1979),94,284606,"Action & Adventure,Drama",Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr",89,98,80
+Argo (2012),90,207373,"Drama,Mystery & Suspense",Ben Affleck,Chris Terrio,40,96,313
+Arrival (2016),82,78740,"Drama,Mystery & Suspense,Science Fiction & Fantasy",Denis Villeneuve,Eric Heisserer,58,94,333
+Baby Driver (2017),89,48114,"Action & Adventure,Comedy,Drama",Edgar Wright,Edgar Wright,59,93,283
+Battleship Potemkin (1925),85,18709,"Art House & International,Classics,Drama",Sergei M. Eisenstein,"Sergei M. Eisenstein, Nina Agadzhanova, Nina Agadzhanova-Shutko",100,100,45
+A Hard Day's Night (1964),89,50067,"Classics,Comedy,Musical & Performing Arts",Richard Lester,Alun Owen,22,98,104
+Bicycle Thieves (Ladri di biciclette) (1949),94,33723,Drama,Vittorio De Sica,"Cesare Zavattini, Vittorio De Sica, Oreste Biancoli, Adolfo Franci, O. Biancoli, Suso Cecchi d'Amico",49,98,56
+Boyhood (2014),81,88478,Drama,Richard Linklater,Richard Linklater,15,98,283
+The Bride of Frankenstein (1935),87,24471,"Classics,Horror,Science Fiction & Fantasy,Special Interest",James Whale,"John L. Balderston, William Hurlbut",43,100,41
+Brooklyn (2015),87,45763,Drama,John Crowley,Nick Hornby,74,97,243
+Citizen Kane (1941),90,157274,"Classics,Drama,Mystery & Suspense",Orson Welles,"Orson Welles, Herman J. Mankiewicz",2,100,75
+Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb (1964),94,208215,"Classics,Comedy,Science Fiction & Fantasy",Stanley Kubrick,"Stanley Kubrick, Peter George, Terry Southern",64,99,74
+Dunkirk (2017),82,53555,"Action & Adventure,Drama",Christopher Nolan,Christopher Nolan,26,93,337
+E.T. The Extra-Terrestrial (1982),72,32313030,"Kids & Family,Science Fiction & Fantasy",Steven Spielberg,Melissa Mathison,11,98,114
+Finding Nemo (2003),86,33355673,"Animation,Comedy,Kids & Family",Andrew Stanton,"Andrew Stanton, Bob Peterson, David Reynolds",73,99,256
+Get Out (2017),87,63837,"Comedy,Horror,Mystery & Suspense",Jordan Peele,Jordan Peele,4,99,282
+The Godfather (1972),98,730433,Drama,Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",9,99,85
+"The Godfather, Part II (1974)",97,409574,"Drama,Mystery & Suspense",Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",99,97,72
+Gone With the Wind (1939),93,292794,"Classics,Drama,Romance",Victor Fleming,Sidney Howard,78,94,83
+The Grapes of Wrath (1940),88,23954,"Classics,Drama",John Ford,Nunnally Johnson,94,100,43
+Gravity (2013),80,301261,"Drama,Science Fiction & Fantasy",Alfonso CuarÃ³n,"Alfonso CuarÃ³n, JonÃ¡s CuarÃ³n, JonÃ¡s CuarÃ³n",30,96,315
+Harry Potter and the Deathly Hallows - Part 2 (2011),89,389431,"Action & Adventure,Drama,Kids & Family,Mystery & Suspense,Science Fiction & Fantasy",David Yates (II),Steve Kloves,93,96,314
+Hell or High Water (2016),88,37738,"Drama,Mystery & Suspense",David Mackenzie,Taylor Sheridan,83,97,237
+Inside Out (2015),89,133558,"Animation,Kids & Family",Pete Docter,"Meg LeFauve, Josh Cooley, Pete Docter",8,98,324
+It Happened One Night (1934),93,33106,"Classics,Comedy,Romance",Frank Capra,Robert Riskin,13,98,52
+Jaws (1975),90,942217,"Action & Adventure,Drama,Mystery & Suspense",Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",97,97,74
+The Last Picture Show (1971),90,13893,"Classics,Drama",Peter Bogdanovich,"Peter Bogdanovich, Larry McMurtry",92,100,51
+L.A. Confidential (1997),94,149772,"Drama,Mystery & Suspense",Curtis Hanson,"Curtis Hanson, Brian Helgeland",77,99,108
+La Grande illusion (Grand Illusion) (1938),92,11490,"Art House & International,Classics,Drama",Jean Renoir,"Jean Renoir, Charles Spaak",23,97,63
+La La Land (2016),82,67325,"Comedy,Drama,Musical & Performing Arts",Damien Chazelle,Damien Chazelle,86,92,358
+Logan (2017),91,86540,"Action & Adventure,Drama,Science Fiction & Fantasy",James Mangold,"James Mangold, Scott Frank, Michael Green",55,93,309
+Mad Max: Fury Road (2015),86,123937,"Action & Adventure,Science Fiction & Fantasy",George Miller,"Brendan McCarthy, Nick Lathouris, George Miller",5,97,370
+Manchester by the Sea (2016),77,48189,Drama,Kenneth Lonergan,Kenneth Lonergan,63,96,278
+Man on Wire (2008),87,29827,"Documentary,Special Interest",James Marsh,"Jan 22, 2008
+ wide",96,100,156
+Modern Times (1936),95,39736,"Classics,Comedy",Charles Chaplin,Charles Chaplin,12,100,53
+Moonlight (2016),80,41956,Drama,Barry Jenkins (III) ,Barry Jenkins (III),17,98,292
+The Night of the Hunter (1955),90,24322,"Drama,Mystery & Suspense",Charles Laughton,James Agee,61,98,64
+North by Northwest (1959),94,78793,"Classics,Mystery & Suspense",Alfred Hitchcock,Ernest Lehman,24,100,65
+"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",87,47463,"Art House & International,Classics,Horror,Science Fiction & Fantasy",F.W. Murnau,Henrik Galeen,20,97,62
+On the Waterfront (1954),95,51664,"Classics,Drama,Romance",Elia Kazan,Budd Schulberg,90,98,61
+Open City (1946),92,6128,"Art House & International,Drama",Roberto Rossellini,"Sergio Amidei, Federico Fellini, Roberto Rossellini",81,100,41
+The Philadelphia Story (1940),93,46810,"Classics,Comedy,Romance",George Cukor,"Donald Ogden Stewart, Waldo Salt",47,100,54
+Pinocchio (1940),72,278682,"Animation,Kids & Family,Musical & Performing Arts,Science Fiction & Fantasy",Hamilton Luske,"Aurelius Battaglia, Ted Sears, Webb Smith, Erdman Penner, Otto Englander, Joseph Sabo, William Cottrell",84,100,45
+Psycho (1960),94,238259,"Classics,Horror,Mystery & Suspense",Alfred Hitchcock,Joseph Stefano,18,97,86
+Repulsion (1965),87,18655,"Classics,Drama,Horror,Mystery & Suspense",Roman Polanski,"Roman Polanski, GÃ©rard Brach",28,100,60
+Roman Holiday (1953),94,62895,"Classics,Comedy,Drama,Romance",William Wyler,"John Dighton, Ian McLellan Hunter, Dalton Trumbo",95,98,52
+Rosemary's Baby (1968),87,72669,"Classics,Horror,Mystery & Suspense",Roman Polanski,Roman Polanski,72,99,69
+Selma (2015),86,60533,Drama,Ava DuVernay,Paul Webb,37,99,236
+Seven Samurai (Shichinin no Samurai) (1956),97,90049,"Action & Adventure,Art House & International,Classics,Drama",Akira Kurosawa,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",50,100,57
+Singin' in the Rain (1952),95,137643,"Classics,Comedy,Musical & Performing Arts,Romance",Stanley Donen,"Betty Comden, Adolph Green",14,100,49
+Skyfall (2012),86,372497,"Action & Adventure,Mystery & Suspense",Sam Mendes,"John Logan, Robert Wade, Neal Purvis",80,93,349
+Spotlight (2015),93,68142,"Drama,Mystery & Suspense",Tom McCarthy,"Tom McCarthy, Josh Singer",33,96,311
+Star Trek (2009),91,746458,"Action & Adventure,Drama,Science Fiction & Fantasy",J.J. Abrams,"Gene Roddenberry, Alex Kurtzman, Roberto Orci",87,95,336
+Star Wars: Episode VII - The Force Awakens (2015),89,222789,"Action & Adventure,Science Fiction & Fantasy",J.J. Abrams,"J.J. Abrams, Lawrence Kasdan, Michael Arndt",62,92,370
+Sunset Boulevard (1950),95,52783,"Classics,Drama",Billy Wilder,"D.M. Marshman, Jr., Charles Brackett, Billy Wilder",31,98,60
+Taxi Driver (1976),93,258405,"Drama,Mystery & Suspense",Martin Scorsese,Paul Schrader,38,99,77
+The Babadook (2014),72,37024,"Drama,Horror,Mystery & Suspense",Jennifer Kent,Jennifer Kent,69,98,214
+The Battle of Algiers (La Battaglia di Algeri) (1967),95,14267,"Art House & International,Drama",Gillo Pontecorvo,"Gillo Pontecorvo, Franco Solinas",25,99,83
+The Big Sick (2017),90,23391,"Comedy,Romance",Michael Showalter,"Kumail Nanjiani, Emily V. Gordon",42,98,217
+The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),89,27163,"Art House & International,Classics,Cult Movies,Horror,Mystery & Suspense",Robert Wiene,"David Lee Fisher & Hans Janowitz, Carl Mayer",6,100,49
+The Conformist (1970),91,8529,"Art House & International,Drama",Bernardo Bertolucci,Bernardo Bertolucci,70,100,50
+The Dark Knight (2008),94,1827436,"Action & Adventure,Drama,Science Fiction & Fantasy",Christopher Nolan,"Christopher Nolan, Jonathan Nolan",67,94,325
+"The Good, the Bad and the Ugly (1966)",97,238420,Western,Sergio Leone,"Sergio Leone, Luciano Vincenzoni, Furio Scarpelli, Age",79,97,68
+The Jungle Book (2016),86,92856,"Action & Adventure,Kids & Family",Jon Favreau,Justin Marks,85,95,284
+The Third Man (1949),93,53081,"Classics,Mystery & Suspense",Carol Reed,Graham Greene (II),3,100,77
+The Wizard of Oz (1939),89,874425,"Classics,Kids & Family,Musical & Performing Arts,Science Fiction & Fantasy",King Vidor,"Florence Ryerson, Noel Langley, Edgar Allan Woolf",1,99,110
+The Wrestler (2008),88,139795,Drama,Darren Aronofsky,"Robert D. Siegel, Darren Aronofsky",75,98,222
+Toy Story (1995),92,1107731,"Animation,Comedy,Kids & Family,Science Fiction & Fantasy",John Lasseter,"Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow",98,100,78
+Toy Story 2 (1999),86,998186,"Animation,Comedy,Kids & Family,Science Fiction & Fantasy",Ash Brannon,"Doug Chamberlain, Rita Hsiao, Doug Chamberlin, Chris Webb, Ash Brannon, John Lasseter, Pete Docter, Andrew Stanton",41,100,163
+Toy Story 3 (2010),89,605098,"Animation,Comedy,Kids & Family,Science Fiction & Fantasy",Lee Unkrich,"Lee Unkrich, Andrew Stanton, John Lasseter, Michael Arndt",39,99,291
+The Treasure of the Sierra Madre (1948),93,25627,"Action & Adventure,Classics,Drama,Western",John Huston,John Huston,51,100,45
+Up (2009),90,1201878,"Action & Adventure,Animation,Comedy,Kids & Family",Pete Docter,"Bob Peterson, Pete Docter, Tom McCarthy, Ronnie del Carmen",52,98,286
+Vertigo (1958),93,101454,"Classics,Drama,Mystery & Suspense,Romance",Alfred Hitchcock,"Samuel W. Taylor, Samuel A. Taylor, Alec Coppel",66,97,64
+The Wages of Fear (1953),95,8536,"Art House & International,Drama,Mystery & Suspense",Henri-Georges Clouzot,"Henri-Georges Clouzot, Jerome Geronimi",91,100,40
+Wonder Woman (2017),90,112955,"Action & Adventure,Drama,Science Fiction & Fantasy",Patty Jenkins,"Allan Heinberg, Zack Snyder, Jason Fuchs",46,92,333
+Zootopia (2016),92,98633,"Action & Adventure,Animation,Comedy",Byron Howard,"Jared Bush, Phil Johnston",44,98,249
